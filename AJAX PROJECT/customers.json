@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name": "John Doe",
+        "company": "123Designs",
+        "phone":"023343224"
+    },
+    {
+        "id":1,
+        "name": "Williams Smith",
+        "company": "Accra Consults",
+         "phone":"023343224"
+    },
+    {
+        "id":1,
+        "name": "Tyra ",
+        "company": "Travesy Media",
+        "phone":"023343224"
+    }
+]
